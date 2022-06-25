@@ -805,10 +805,11 @@ footer .glyphicon {
    
   }
 }
-@media(min-width:700px) and (max-width:1400px){
+@media only screen and (min-width:700px){
 
   #benefits{
-    display: none;
+    display: none !important;
+
    
   }
 }
@@ -863,7 +864,7 @@ footer .glyphicon {
   border: 2px solid;
   border-radius: 3px;
   text-align: center;
-  width: 34%;
+  width: 40%;
 }
 
 #contact {
