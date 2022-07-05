@@ -1,0 +1,206 @@
+[18-Sep-2021 11:33:15 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 11:39:44 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 11:46:11 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 11:51:33 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 11:51:55 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 14:33:21 UTC] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 14:33:21 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 14:33:21 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 16:14:28 UTC] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 16:14:28 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[18-Sep-2021 16:14:28 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[20-Sep-2021 06:47:13 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[20-Sep-2021 06:53:17 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[20-Sep-2021 07:00:49 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: HTTP request failed! in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:27:38 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:27:38 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:27:38 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 07:36:42 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:28 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:28 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:29 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:29 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:29 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:14:29 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:36 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:26:47 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:01 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:07 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:57 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:57 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:38:57 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:53 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:53 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:53 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:54 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:54 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:39:54 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:01 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:50:52 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:08 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:08 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:08 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:08 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:09 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 08:59:09 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:03:23 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:03:23 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:03:23 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:04:51 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:06 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:07 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:07 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:07 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:19 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:26 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:20:41 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:39 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:39 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:39 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:39 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:40 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:21:40 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:22:11 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:11 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:46 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:27:55 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:07 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:07 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:08 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:08 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:08 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:30:18 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:24 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:24 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:24 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:25 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:25 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:25 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:27 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:27 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:31:27 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:12 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:12 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:12 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:14 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:14 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:32:14 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:57 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:57 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:57 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:58 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:58 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:33:58 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:34:04 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:17 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:17 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:17 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:18 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:18 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:35:18 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:42:26 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:53:02 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:53:02 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:53:02 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(): Peer certificate CN=`*.prod.sin2.secureserver.net' did not match expected CN=`oxyjon.com' in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[27-Sep-2021 09:58:08 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: operation failed in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[03-Oct-2021 07:25:58 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: Connection timed out in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[03-Oct-2021 08:06:42 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: Connection timed out in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
+[03-Oct-2021 10:26:31 UTC] PHP Warning:  file_get_contents(https://oxyjon.com/crms/camp_form_01.php): failed to open stream: Connection timed out in /home/iip0cgontdw2/public_html/diabetes/form.php on line 2
